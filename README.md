@@ -1,5 +1,5 @@
 # How to build
-## Set up environment:
+## Set up environment
 1. Install Visual Studio (tested with VS2026)
 2. Download and extract FASTBuild, and include the folder to PATH.
 3. Install and bootstrap vcpkg according to step 1 in this guide: https://learn.microsoft.com/en-gb/vcpkg/get_started/get-started?pivots=shell-cmd#1---set-up-vcpkg
