@@ -1,0 +1,9 @@
+{
+    "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+    "name": "example-app",
+    "builtin-baseline": "10a80bc3030382adc2715be46db30ec12878ff68",
+    "version": "1.0.0",
+    "dependencies": [
+        "qtbase"
+    ]
+}
